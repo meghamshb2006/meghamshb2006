@@ -1,6 +1,12 @@
 # Hi, I'm Meghamsh
 
-<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/fabcad7a-04b6-4a79-892e-d6f2b66a73bb" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/fabcad7a-04b6-4a79-892e-d6f2b66a73bb" 
+    alt="Meghamsh with robots" 
+    width="400"
+  />
+</p>
 
 I'm a Computer Engineering student at **The University of Hong Kong**.
 
