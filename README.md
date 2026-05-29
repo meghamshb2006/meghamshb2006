@@ -4,24 +4,23 @@
   <img 
     src="https://github.com/user-attachments/assets/fabcad7a-04b6-4a79-892e-d6f2b66a73bb" 
     alt="Meghamsh with robots" 
-    width="400"
+    width="370"
   />
 </p>
 
-I'm a Computer Engineering student at **The University of Hong Kong**.
+I am a Computer Engineering student at **The University of Hong Kong (HKU)** with a strong interest in **robotics, robotic manipulation, teleoperation and hardware–software integration**. I enjoy building systems where software directly controls and improves how machines interact with the physical world.
 
-I’m interested in **AI systems, robotics, LLMs, RAG, AI agents, and digital twins**.
-
-I like building practical systems that connect software, intelligence, and the physical world.
+My current focus is on controller-based robot control, simulation-to-hardware workflows, **OpenClaw-style robotic manipulation**, and smart actuators. I am also exploring how **computer vision, AI agents, and machine learning** can make robotic systems more adaptive and useful in real-world environments.
 
 ---
 
 ## About Me
 
-- Studying Computer Engineering at HKU  
-- Exploring robotics, AI agents, and full-stack AI systems  
-- Interested in real-world automation, simulation, and intelligent systems  
-- Currently building projects around controller-based robotics and AI workflows  
+I’m a Computer Engineering student at **HKU** who likes building robotics systems.
+
+Right now, I’m exploring **robotic manipulation, controller-based robot control and simulation-to-hardware workflows**.
+
+I’m especially interested in systems like **OpenClaw**, smart actuators, and practical robotics tools that can actually be tested, improved, and used in the real world.
 
 ---
 
@@ -29,43 +28,43 @@ I like building practical systems that connect software, intelligence, and the p
 
 ### ClutchPS4
 
-A PS4-controller-based robotic arm control system with a browser simulation workflow for testing before running on hardware.
+Built a PS4-controller-based teleoperation system for a robotic arm, connecting a browser-based simulator with the real hardware setup.
 
-[GitHub Repository](https://github.com/meghamshb2006/clutchps4)
+The system supports simulation testing, live robot control, and servo feedback from the physical arm back into the simulator. The project helped bridge the gap between digital testing and real-world robotic motion.
 
-### AI Adaptive Physics Learning Platform
 
-A full-stack learning platform using **React, Matter.js, KaTeX**, and LLM-based explanations.
+---
+
+### Smart Campus Automation System
+
+Built an n8n-based automation system for campus event workflows, including student registrations, automated confirmations, reminders, feedback analysis, and weekly admin reports.
+
+The system used a shared Google Sheets data layer and supported communication across Email, WhatsApp, and SMS, reducing manual admin work through event-driven workflows.
+
+---
+
+### ByteWave
+
+Built an AI-powered physics learning system that converts natural language questions into physics-grounded animated explanations.
+
+The system used an LLM pipeline for planning, retrieval, code generation, physics validation, and rendering. It included RAG, simulation engines, and fallback templates to reduce hallucinations and keep outputs useful.
+
+---
 
 ### AI Agents and RAG Systems
 
-Agentic workflows built using **CrewAI, OpenAI APIs, and ChromaDB**.
+Built AI agents and RAG-based chatbots using **CrewAI**, **OpenAI APIs**, and **ChromaDB**, with document retrieval pipelines for automated task orchestration and faster semantic search.
 
 ---
 
-## Tech Stack
+## Building Philosophy
 
-**Languages**  
-Python · C++ · JavaScript · C
+I like building systems that connect software with the physical world.
 
-**AI / ML**  
-OpenAI API · CrewAI · ChromaDB · LLMs · RAG · AI Agents
+My interests are strongest when robotics, AI, hardware, and real-world testing come together. I care about building things that can be tested, improved, and eventually used beyond just a demo.
 
-**Robotics / Hardware**  
-LeRobot · NVIDIA Isaac SDK · Arduino · ESP32 · Raspberry Pi
 
-**Web / Tools**  
-React · Git · GitHub · VS Code
+## Connect with me 
 
----
-
-## Certifications
-
-- NVIDIA Certified Professional: Agentic AI  
-- NVIDIA-Certified Associate: Generative AI LLMs  
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/meghamshbalan
+[LinkedIn](https://www.linkedin.com/in/meghamshbalantrapu/)  
+[Email](mailto:meghamsh@connect.hku.hk)
