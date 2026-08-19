@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  Computer Engineering @ HKU · robotics, manipulation & AI agents
+  Computer Engineering @ HKU · robotics & AI agents
 </div>
 
 <div align="center">
