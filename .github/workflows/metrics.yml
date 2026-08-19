@@ -17,6 +17,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.png
+          config_output: png
 
           # Options
           user: meghamshb2006

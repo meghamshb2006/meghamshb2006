@@ -17,5 +17,5 @@
 
   ![Repos Badge](https://badges.strrl.dev/repos/meghamshb2006) ![Commits Badge](https://badges.strrl.dev/commits/all/meghamshb2006) ![Contributions Badge](https://badges.strrl.dev/contributions/all/meghamshb2006) ![Years Badge](https://badges.strrl.dev/years/meghamshb2006)
 
-  ![Metrics](./github-metrics.svg)
+  <img align="center" src="https://raw.githubusercontent.com/meghamshb2006/meghamshb2006/main/github-metrics.png" alt="Metrics" />
 </div>
